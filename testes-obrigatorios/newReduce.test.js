@@ -2,7 +2,7 @@ require('../script');
 
 // Utilizando o newReduce()
 
-const arrToReduce = [1, 2, 3];
+const arrToReduce = [2, 2, 3];
 
 const mockSumCounter = jest.fn((previous, current) => previous + current, 0);
 
