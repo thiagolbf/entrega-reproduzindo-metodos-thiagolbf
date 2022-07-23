@@ -1,21 +1,24 @@
-# Entrega: Reproduzindo Métodos de Array e String
+# Nesta atividade praticando bastante o uso de callbacks reproduzindo os métodos mais utilizados do JS
 
-Para iniciar, faça o clone deste repositório.
-
-Nesta entrega, você irá exercitar a criação e o uso das funções callback, e irá se familiarizar com o modo no qual os métodos incorporados do JavaScript funcionam nos bastidores.
 
 O JavaScript fornece vários "métodos de iteração" baseados no mesmo tipo de padrão de callback que você viu no caso do forEach() na aula sobre Funções Callback. Essencialmente, eles são loops prontos, com alguns comportamentos adicionados para ter um pouco de variação do padrão.
 
-Há várias formas de recriar as funções. Como o foco é a lógica, use esta para facilitar 
-nos testes:
+1. [forEach()]
+3. [map()]
+3. [filter()]
+4. [find()]
+5. [findIndex()]
+6. [reduce()]
+7. [some()]
+8. [every()]
+9. [fill()]
+10. [includes()]
+11. [indexOf()]
+12. [concat()]
+13. [join()]
 
-```js
-function nomeDaFuncao(array, callback) {
-    // conteúdo da função
-}
-```
 
-Não se preocupe caso tenha visto formas de criar com _prototype_ ;) Depois você poderá voltar e refazer. 
+
 
 ## Sua Tarefa [18 pontos]
 
