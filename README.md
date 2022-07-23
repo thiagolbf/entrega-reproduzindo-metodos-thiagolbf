@@ -1,4 +1,4 @@
-## Para praticar o uso de callbacks, reproduzi os métodos mais utilizados em JS
+## Para praticar o uso de callbacks, reproduzindo os métodos mais utilizados em JS
 
 
 <strong> Abaixo os métodos que foram reproduzidos </strong>
